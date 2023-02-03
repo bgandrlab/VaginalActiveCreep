@@ -22,4 +22,4 @@ Creep data is provided in an excel spreadsheet. It reports the time (in seconds)
 **Publication**
 
 This data is published in:
-Gabrielle L. Clark-Patterson, Lily M. Buchanan, Benard O. Ogola, Maria Florian-Rodriguez, Sarah H. Lindsey, Raffaella De Vita, Kristin S. Miller. Smooth Muscle Contribution to Vaginal Viscoelastic Response. Journal of the Mechanical Behavior of Biomedical Materials. In Press. 
+Gabrielle L. Clark-Patterson, Lily M. Buchanan, Benard O. Ogola, Maria Florian-Rodriguez, Sarah H. Lindsey, Raffaella De Vita, Kristin S. Miller. Smooth Muscle Contribution to Vaginal Viscoelastic Response. Journal of the Mechanical Behavior of Biomedical Materials. Accepted. 
